@@ -1,0 +1,3064 @@
+fileFormatVersion: 2
+guid: 0bd96f88f32c17e4aaf23b2d0ffe69ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8468991172838313320
+    second: MarioEnemySpriteSheet_0
+  - first:
+      213: 7041685757313973824
+    second: MarioEnemySpriteSheet_1
+  - first:
+      213: -1939624739814992595
+    second: MarioEnemySpriteSheet_2
+  - first:
+      213: -8196964555031742676
+    second: MarioEnemySpriteSheet_3
+  - first:
+      213: -2313267761713232410
+    second: MarioEnemySpriteSheet_4
+  - first:
+      213: -5108680908754776165
+    second: MarioEnemySpriteSheet_5
+  - first:
+      213: -2334959041199102156
+    second: MarioEnemySpriteSheet_6
+  - first:
+      213: 3260862200859989580
+    second: MarioEnemySpriteSheet_7
+  - first:
+      213: -4114218804553243205
+    second: MarioEnemySpriteSheet_8
+  - first:
+      213: -5736379918765163494
+    second: MarioEnemySpriteSheet_9
+  - first:
+      213: 862778395537032089
+    second: MarioEnemySpriteSheet_10
+  - first:
+      213: 7487163772821657400
+    second: MarioEnemySpriteSheet_11
+  - first:
+      213: -5595149259436637318
+    second: MarioEnemySpriteSheet_12
+  - first:
+      213: -7803276560393290835
+    second: MarioEnemySpriteSheet_13
+  - first:
+      213: 3478913805980533049
+    second: MarioEnemySpriteSheet_14
+  - first:
+      213: 433679404967976514
+    second: MarioEnemySpriteSheet_15
+  - first:
+      213: -6302688839493825184
+    second: MarioEnemySpriteSheet_16
+  - first:
+      213: -2198810912725289322
+    second: MarioEnemySpriteSheet_17
+  - first:
+      213: -6190090071823384797
+    second: MarioEnemySpriteSheet_18
+  - first:
+      213: -2179354767008884199
+    second: MarioEnemySpriteSheet_19
+  - first:
+      213: -3218672874736549600
+    second: MarioEnemySpriteSheet_20
+  - first:
+      213: -4909509278147350867
+    second: MarioEnemySpriteSheet_21
+  - first:
+      213: -4665300964830958031
+    second: MarioEnemySpriteSheet_22
+  - first:
+      213: -6322343372924250978
+    second: MarioEnemySpriteSheet_23
+  - first:
+      213: 3722423888691722937
+    second: MarioEnemySpriteSheet_24
+  - first:
+      213: 2427235134631137124
+    second: MarioEnemySpriteSheet_25
+  - first:
+      213: 272333068904983663
+    second: MarioEnemySpriteSheet_26
+  - first:
+      213: -8241830441771739202
+    second: MarioEnemySpriteSheet_27
+  - first:
+      213: -1611186003847850080
+    second: MarioEnemySpriteSheet_28
+  - first:
+      213: -3588542781103742316
+    second: MarioEnemySpriteSheet_29
+  - first:
+      213: 8608943000596609671
+    second: MarioEnemySpriteSheet_30
+  - first:
+      213: -5089570272998906388
+    second: MarioEnemySpriteSheet_31
+  - first:
+      213: -1133975725163718646
+    second: MarioEnemySpriteSheet_32
+  - first:
+      213: 317092192357414021
+    second: MarioEnemySpriteSheet_33
+  - first:
+      213: -4008836559623726821
+    second: MarioEnemySpriteSheet_34
+  - first:
+      213: -3104198564394614479
+    second: MarioEnemySpriteSheet_35
+  - first:
+      213: 3650068753312059157
+    second: MarioEnemySpriteSheet_36
+  - first:
+      213: -5851383403123730572
+    second: MarioEnemySpriteSheet_37
+  - first:
+      213: 5021524987528685698
+    second: MarioEnemySpriteSheet_38
+  - first:
+      213: 7849637805716794627
+    second: MarioEnemySpriteSheet_39
+  - first:
+      213: -9139825863114105229
+    second: MarioEnemySpriteSheet_40
+  - first:
+      213: -1297668449550581116
+    second: MarioEnemySpriteSheet_41
+  - first:
+      213: 9002644257505956195
+    second: MarioEnemySpriteSheet_42
+  - first:
+      213: 8445262801643649621
+    second: MarioEnemySpriteSheet_43
+  - first:
+      213: 2694566294061152699
+    second: MarioEnemySpriteSheet_44
+  - first:
+      213: 1063087514526168975
+    second: MarioEnemySpriteSheet_45
+  - first:
+      213: 5354160266729838359
+    second: MarioEnemySpriteSheet_46
+  - first:
+      213: -4701933613357695146
+    second: MarioEnemySpriteSheet_47
+  - first:
+      213: -1085416856901023435
+    second: MarioEnemySpriteSheet_48
+  - first:
+      213: 8605641106908105958
+    second: MarioEnemySpriteSheet_49
+  - first:
+      213: -2521183131059784922
+    second: MarioEnemySpriteSheet_50
+  - first:
+      213: -6318102952476032342
+    second: MarioEnemySpriteSheet_51
+  - first:
+      213: 8379783636030280592
+    second: MarioEnemySpriteSheet_52
+  - first:
+      213: 2245268872903069557
+    second: MarioEnemySpriteSheet_53
+  - first:
+      213: -5379058041849881589
+    second: MarioEnemySpriteSheet_54
+  - first:
+      213: -2409757894748960382
+    second: MarioEnemySpriteSheet_55
+  - first:
+      213: 2692334766509828197
+    second: MarioEnemySpriteSheet_56
+  - first:
+      213: 7782989039953979540
+    second: MarioEnemySpriteSheet_57
+  - first:
+      213: 5717157709518771450
+    second: MarioEnemySpriteSheet_58
+  - first:
+      213: 6246868551845793748
+    second: MarioEnemySpriteSheet_59
+  - first:
+      213: 6437488951684039745
+    second: MarioEnemySpriteSheet_60
+  - first:
+      213: 7494223288923410190
+    second: MarioEnemySpriteSheet_61
+  - first:
+      213: -2491207455871729093
+    second: MarioEnemySpriteSheet_62
+  - first:
+      213: 9006991039806614481
+    second: MarioEnemySpriteSheet_63
+  - first:
+      213: -3535907883431820502
+    second: MarioEnemySpriteSheet_64
+  - first:
+      213: 80877917964034578
+    second: MarioEnemySpriteSheet_65
+  - first:
+      213: -347612582988748983
+    second: MarioEnemySpriteSheet_66
+  - first:
+      213: 3359427606970051752
+    second: MarioEnemySpriteSheet_67
+  - first:
+      213: -5466362146934136433
+    second: MarioEnemySpriteSheet_68
+  - first:
+      213: -9028697633025681506
+    second: MarioEnemySpriteSheet_69
+  - first:
+      213: 13435409285588678
+    second: MarioEnemySpriteSheet_70
+  - first:
+      213: -4064419148804460267
+    second: MarioEnemySpriteSheet_71
+  - first:
+      213: 2220068503628408617
+    second: MarioEnemySpriteSheet_72
+  - first:
+      213: 4299118346816351921
+    second: MarioEnemySpriteSheet_73
+  - first:
+      213: 4631224399143167381
+    second: MarioEnemySpriteSheet_74
+  - first:
+      213: 659977363630278480
+    second: MarioEnemySpriteSheet_75
+  - first:
+      213: -4454659215931223578
+    second: MarioEnemySpriteSheet_76
+  - first:
+      213: -1832180814458114753
+    second: MarioEnemySpriteSheet_77
+  - first:
+      213: 866711104806498813
+    second: MarioEnemySpriteSheet_78
+  - first:
+      213: -7729529924575444729
+    second: MarioEnemySpriteSheet_79
+  - first:
+      213: -7728055511200401051
+    second: MarioEnemySpriteSheet_80
+  - first:
+      213: 3420476053554961200
+    second: MarioEnemySpriteSheet_81
+  - first:
+      213: 7083849140299338495
+    second: MarioEnemySpriteSheet_82
+  - first:
+      213: -4724909290451104851
+    second: MarioEnemySpriteSheet_83
+  - first:
+      213: -2097057290316364063
+    second: MarioEnemySpriteSheet_84
+  - first:
+      213: -1596157481511223311
+    second: MarioEnemySpriteSheet_85
+  - first:
+      213: 3376206428733196007
+    second: MarioEnemySpriteSheet_86
+  - first:
+      213: -3521864037874710216
+    second: MarioEnemySpriteSheet_87
+  - first:
+      213: -2463268675832767319
+    second: MarioEnemySpriteSheet_88
+  - first:
+      213: 4557938667848609495
+    second: MarioEnemySpriteSheet_89
+  - first:
+      213: -7754673679971915713
+    second: MarioEnemySpriteSheet_90
+  - first:
+      213: -3298869743343365568
+    second: MarioEnemySpriteSheet_91
+  - first:
+      213: -6248715984351229999
+    second: MarioEnemySpriteSheet_92
+  - first:
+      213: -2705066155807501331
+    second: MarioEnemySpriteSheet_93
+  - first:
+      213: 5179415797639445162
+    second: MarioEnemySpriteSheet_94
+  - first:
+      213: -658115900014860830
+    second: MarioEnemySpriteSheet_95
+  - first:
+      213: 2002207933576936862
+    second: MarioEnemySpriteSheet_96
+  - first:
+      213: 4099522673998161458
+    second: MarioEnemySpriteSheet_97
+  - first:
+      213: 2778485863495061776
+    second: MarioEnemySpriteSheet_98
+  - first:
+      213: -6624564307549786718
+    second: MarioEnemySpriteSheet_99
+  - first:
+      213: 8547339486900830931
+    second: MarioEnemySpriteSheet_100
+  - first:
+      213: -4999963603520119806
+    second: MarioEnemySpriteSheet_101
+  - first:
+      213: -6161370839420203537
+    second: MarioEnemySpriteSheet_102
+  - first:
+      213: -5590826639328929099
+    second: MarioEnemySpriteSheet_103
+  - first:
+      213: -5642194361953413512
+    second: MarioEnemySpriteSheet_104
+  - first:
+      213: 4757626818409609887
+    second: MarioEnemySpriteSheet_105
+  - first:
+      213: -8144541148455749472
+    second: MarioEnemySpriteSheet_106
+  - first:
+      213: 376815685910124022
+    second: MarioEnemySpriteSheet_107
+  - first:
+      213: 253556636804460528
+    second: MarioEnemySpriteSheet_108
+  - first:
+      213: 5323092445081072076
+    second: MarioEnemySpriteSheet_109
+  - first:
+      213: 4066813007826713483
+    second: MarioEnemySpriteSheet_110
+  - first:
+      213: 3566965579826636517
+    second: MarioEnemySpriteSheet_111
+  - first:
+      213: -3567696020414053179
+    second: MarioEnemySpriteSheet_112
+  - first:
+      213: 5340428760906388894
+    second: MarioEnemySpriteSheet_113
+  - first:
+      213: -8059358282564456498
+    second: MarioEnemySpriteSheet_114
+  - first:
+      213: -5700012625482577836
+    second: MarioEnemySpriteSheet_115
+  - first:
+      213: 8060563974099584167
+    second: MarioEnemySpriteSheet_116
+  - first:
+      213: -5271575493760702639
+    second: MarioEnemySpriteSheet_117
+  - first:
+      213: 2455965183657228249
+    second: MarioEnemySpriteSheet_118
+  - first:
+      213: 118845190682631254
+    second: MarioEnemySpriteSheet_119
+  - first:
+      213: 252599240312370593
+    second: MarioEnemySpriteSheet_120
+  - first:
+      213: -8685122094686075271
+    second: MarioEnemySpriteSheet_121
+  - first:
+      213: -5574882437537367851
+    second: MarioEnemySpriteSheet_122
+  - first:
+      213: 7285451799590844755
+    second: MarioEnemySpriteSheet_123
+  - first:
+      213: 660676437164424327
+    second: MarioEnemySpriteSheet_124
+  - first:
+      213: -1555459274857747292
+    second: MarioEnemySpriteSheet_125
+  - first:
+      213: -5883644968641393152
+    second: MarioEnemySpriteSheet_126
+  - first:
+      213: -2751486658329338288
+    second: MarioEnemySpriteSheet_127
+  - first:
+      213: -5535909239261698712
+    second: MarioEnemySpriteSheet_128
+  - first:
+      213: -5784418189230931014
+    second: MarioEnemySpriteSheet_129
+  - first:
+      213: -1493397351028349790
+    second: MarioEnemySpriteSheet_130
+  - first:
+      213: -4678631324047447706
+    second: MarioEnemySpriteSheet_131
+  - first:
+      213: -3679219622305960880
+    second: MarioEnemySpriteSheet_132
+  - first:
+      213: -7012825942011514086
+    second: MarioEnemySpriteSheet_133
+  - first:
+      213: 6119052514759097925
+    second: MarioEnemySpriteSheet_134
+  - first:
+      213: -5933490304440903218
+    second: MarioEnemySpriteSheet_135
+  - first:
+      213: -8384901974594171820
+    second: MarioEnemySpriteSheet_136
+  - first:
+      213: -7465531415161636752
+    second: MarioEnemySpriteSheet_137
+  - first:
+      213: -201851168420425419
+    second: MarioEnemySpriteSheet_138
+  - first:
+      213: 7559762644316195611
+    second: MarioEnemySpriteSheet_139
+  - first:
+      213: 3446908634574553951
+    second: MarioEnemySpriteSheet_140
+  - first:
+      213: -7000968859890522283
+    second: MarioEnemySpriteSheet_141
+  - first:
+      213: 9023538542471762221
+    second: MarioEnemySpriteSheet_142
+  - first:
+      213: -3011303285848256462
+    second: MarioEnemySpriteSheet_143
+  - first:
+      213: -4899745624376147347
+    second: MarioEnemySpriteSheet_144
+  - first:
+      213: 332697675538072349
+    second: MarioEnemySpriteSheet_145
+  - first:
+      213: 7119060100791168332
+    second: MarioEnemySpriteSheet_146
+  - first:
+      213: -5855990621748295973
+    second: MarioEnemySpriteSheet_147
+  - first:
+      213: -4410104698646999603
+    second: MarioEnemySpriteSheet_148
+  - first:
+      213: -2965655067596154448
+    second: MarioEnemySpriteSheet_149
+  - first:
+      213: 4744396026859808493
+    second: MarioEnemySpriteSheet_150
+  - first:
+      213: -7588407351950092217
+    second: MarioEnemySpriteSheet_151
+  - first:
+      213: -1625107533584580788
+    second: MarioEnemySpriteSheet_152
+  - first:
+      213: 816059976268892137
+    second: MarioEnemySpriteSheet_153
+  - first:
+      213: 5844512568379602494
+    second: MarioEnemySpriteSheet_154
+  - first:
+      213: 2759160505300600830
+    second: MarioEnemySpriteSheet_155
+  - first:
+      213: -6650881714129326524
+    second: MarioEnemySpriteSheet_156
+  - first:
+      213: 7916587453378850015
+    second: MarioEnemySpriteSheet_157
+  - first:
+      213: 7983931712538700302
+    second: MarioEnemySpriteSheet_158
+  - first:
+      213: 4498475127907410697
+    second: MarioEnemySpriteSheet_159
+  - first:
+      213: 2403166201746140428
+    second: MarioEnemySpriteSheet_160
+  - first:
+      213: 7363897708918175341
+    second: MarioEnemySpriteSheet_161
+  - first:
+      213: -7427116756298040882
+    second: MarioEnemySpriteSheet_162
+  - first:
+      213: 99809997282668018
+    second: MarioEnemySpriteSheet_163
+  - first:
+      213: -3259900225416644631
+    second: MarioEnemySpriteSheet_164
+  - first:
+      213: 8914813661955153092
+    second: MarioEnemySpriteSheet_165
+  - first:
+      213: -5841222244636605366
+    second: MarioEnemySpriteSheet_166
+  - first:
+      213: 6601478961887623947
+    second: MarioEnemySpriteSheet_167
+  - first:
+      213: 3642444530413647478
+    second: MarioEnemySpriteSheet_168
+  - first:
+      213: -1186375690418381795
+    second: MarioEnemySpriteSheet_169
+  - first:
+      213: 948701575501600046
+    second: MarioEnemySpriteSheet_170
+  - first:
+      213: 7331366703256146080
+    second: MarioEnemySpriteSheet_171
+  - first:
+      213: 5076850994245403544
+    second: MarioEnemySpriteSheet_172
+  - first:
+      213: 4890499766949798155
+    second: MarioEnemySpriteSheet_173
+  - first:
+      213: 2930610079641107131
+    second: MarioEnemySpriteSheet_174
+  - first:
+      213: -8354367504966440148
+    second: MarioEnemySpriteSheet_175
+  - first:
+      213: -7097443263256051551
+    second: MarioEnemySpriteSheet_176
+  - first:
+      213: 8537232279081723883
+    second: MarioEnemySpriteSheet_177
+  - first:
+      213: 5876391325719307715
+    second: MarioEnemySpriteSheet_178
+  - first:
+      213: 5786931538582990844
+    second: MarioEnemySpriteSheet_179
+  - first:
+      213: -613761458113041242
+    second: MarioEnemySpriteSheet_180
+  - first:
+      213: -5289428580059338647
+    second: MarioEnemySpriteSheet_181
+  - first:
+      213: -8093737777786625127
+    second: MarioEnemySpriteSheet_182
+  - first:
+      213: 2176635256773135105
+    second: MarioEnemySpriteSheet_183
+  - first:
+      213: 2750429572518831660
+    second: MarioEnemySpriteSheet_184
+  - first:
+      213: 4843087705655057636
+    second: MarioEnemySpriteSheet_185
+  - first:
+      213: 614130535267681464
+    second: MarioEnemySpriteSheet_186
+  - first:
+      213: -8912715547100167328
+    second: MarioEnemySpriteSheet_187
+  - first:
+      213: 2912630005243706196
+    second: MarioEnemySpriteSheet_188
+  - first:
+      213: 4702831200118647407
+    second: MarioEnemySpriteSheet_189
+  - first:
+      213: 1198065432141415723
+    second: MarioEnemySpriteSheet_190
+  - first:
+      213: 3565174280371967076
+    second: MarioEnemySpriteSheet_191
+  - first:
+      213: 208935121332373582
+    second: MarioEnemySpriteSheet_192
+  - first:
+      213: -5864148906359538875
+    second: MarioEnemySpriteSheet_193
+  - first:
+      213: -1209611821928517159
+    second: MarioEnemySpriteSheet_194
+  - first:
+      213: 5465682095395455356
+    second: MarioEnemySpriteSheet_195
+  - first:
+      213: -660397450255850210
+    second: MarioEnemySpriteSheet_196
+  - first:
+      213: 711966421964197941
+    second: MarioEnemySpriteSheet_197
+  - first:
+      213: 2092461944310490331
+    second: MarioEnemySpriteSheet_198
+  - first:
+      213: -4464116476247157191
+    second: MarioEnemySpriteSheet_199
+  - first:
+      213: 4227352032749917758
+    second: MarioEnemySpriteSheet_200
+  - first:
+      213: 5780609928000754758
+    second: MarioEnemySpriteSheet_201
+  - first:
+      213: -4994890067739961980
+    second: MarioEnemySpriteSheet_202
+  - first:
+      213: 7458081717082820451
+    second: MarioEnemySpriteSheet_203
+  - first:
+      213: -1755008536425127948
+    second: MarioEnemySpriteSheet_204
+  - first:
+      213: -3842078909718408496
+    second: MarioEnemySpriteSheet_205
+  - first:
+      213: -2665875279055938306
+    second: MarioEnemySpriteSheet_206
+  - first:
+      213: 6617892832703569426
+    second: MarioEnemySpriteSheet_207
+  - first:
+      213: 7642029446562114248
+    second: MarioEnemySpriteSheet_208
+  - first:
+      213: -731076488146585245
+    second: MarioEnemySpriteSheet_209
+  - first:
+      213: -2520996430736905953
+    second: MarioEnemySpriteSheet_210
+  - first:
+      213: -7127383887568949832
+    second: MarioEnemySpriteSheet_211
+  - first:
+      213: 5134159716885262779
+    second: MarioEnemySpriteSheet_212
+  - first:
+      213: 3345422695854823507
+    second: MarioEnemySpriteSheet_213
+  - first:
+      213: 8027219019485176746
+    second: MarioEnemySpriteSheet_214
+  - first:
+      213: -5353491034593943081
+    second: MarioEnemySpriteSheet_215
+  - first:
+      213: 8916523003765888778
+    second: MarioEnemySpriteSheet_216
+  - first:
+      213: 301767076581807892
+    second: MarioEnemySpriteSheet_217
+  - first:
+      213: 3180030281689010841
+    second: MarioEnemySpriteSheet_218
+  - first:
+      213: -1016601440838316450
+    second: MarioEnemySpriteSheet_219
+  - first:
+      213: -7610866786686121909
+    second: MarioEnemySpriteSheet_220
+  - first:
+      213: 8295361546879580532
+    second: MarioEnemySpriteSheet_221
+  - first:
+      213: -1793173228805462884
+    second: MarioEnemySpriteSheet_222
+  - first:
+      213: 4645114670197779812
+    second: MarioEnemySpriteSheet_223
+  - first:
+      213: -6133992574909728594
+    second: MarioEnemySpriteSheet_224
+  - first:
+      213: 5297452111652456413
+    second: MarioEnemySpriteSheet_225
+  - first:
+      213: 1642030283109592967
+    second: MarioEnemySpriteSheet_226
+  - first:
+      213: 8157521109867767272
+    second: MarioEnemySpriteSheet_227
+  - first:
+      213: -6464987188414454688
+    second: MarioEnemySpriteSheet_228
+  - first:
+      213: -7238892864439108772
+    second: MarioEnemySpriteSheet_229
+  - first:
+      213: 5331627739995391283
+    second: MarioEnemySpriteSheet_230
+  - first:
+      213: -1651505646036164800
+    second: MarioEnemySpriteSheet_231
+  - first:
+      213: -7829084384781919695
+    second: MarioEnemySpriteSheet_232
+  - first:
+      213: -7761961629574816160
+    second: MarioEnemySpriteSheet_233
+  - first:
+      213: 907587249362484722
+    second: MarioEnemySpriteSheet_234
+  - first:
+      213: -2083931690781944697
+    second: MarioEnemySpriteSheet_235
+  - first:
+      213: -1183206362237512832
+    second: MarioEnemySpriteSheet_236
+  - first:
+      213: 7814311272387364733
+    second: MarioEnemySpriteSheet_237
+  - first:
+      213: 2798457986937898555
+    second: MarioEnemySpriteSheet_238
+  - first:
+      213: 1125681250343219207
+    second: MarioEnemySpriteSheet_239
+  - first:
+      213: 5359483831589608171
+    second: MarioEnemySpriteSheet_240
+  - first:
+      213: -8485420125580060321
+    second: MarioEnemySpriteSheet_241
+  - first:
+      213: 5203615212319814468
+    second: MarioEnemySpriteSheet_242
+  - first:
+      213: -1830208015592700625
+    second: MarioEnemySpriteSheet_243
+  - first:
+      213: 192351150674108958
+    second: MarioEnemySpriteSheet_244
+  - first:
+      213: 7070071450607400772
+    second: MarioEnemySpriteSheet_245
+  - first:
+      213: 4867214972214971948
+    second: MarioEnemySpriteSheet_246
+  - first:
+      213: -62370711656316340
+    second: MarioEnemySpriteSheet_247
+  - first:
+      213: -5916287294834918431
+    second: MarioEnemySpriteSheet_248
+  - first:
+      213: 2394481490315461415
+    second: MarioEnemySpriteSheet_249
+  - first:
+      213: -1431002799073864815
+    second: MarioEnemySpriteSheet_250
+  - first:
+      213: -7593529736496163788
+    second: MarioEnemySpriteSheet_251
+  - first:
+      213: -6871873506242960385
+    second: MarioEnemySpriteSheet_252
+  - first:
+      213: -6214569459234044613
+    second: MarioEnemySpriteSheet_253
+  - first:
+      213: 1259498953594270221
+    second: MarioEnemySpriteSheet_254
+  - first:
+      213: 8556798701867050320
+    second: MarioEnemySpriteSheet_255
+  - first:
+      213: -2229899507244835823
+    second: MarioEnemySpriteSheet_256
+  - first:
+      213: -6490483381764641110
+    second: MarioEnemySpriteSheet_257
+  - first:
+      213: 441935265462764691
+    second: MarioEnemySpriteSheet_258
+  - first:
+      213: 7955098546056178499
+    second: MarioEnemySpriteSheet_259
+  - first:
+      213: 4772207987485067336
+    second: MarioEnemySpriteSheet_260
+  - first:
+      213: -3595118736809218735
+    second: MarioEnemySpriteSheet_261
+  - first:
+      213: -682307135631561368
+    second: MarioEnemySpriteSheet_262
+  - first:
+      213: 6531180572235120028
+    second: MarioEnemySpriteSheet_263
+  - first:
+      213: 1266093652604191633
+    second: MarioEnemySpriteSheet_264
+  - first:
+      213: 1423691053666444375
+    second: MarioEnemySpriteSheet_265
+  - first:
+      213: -7562008337653938117
+    second: MarioEnemySpriteSheet_266
+  - first:
+      213: 1648294340603766776
+    second: MarioEnemySpriteSheet_267
+  - first:
+      213: 7842295818999561720
+    second: MarioEnemySpriteSheet_268
+  - first:
+      213: 8240175097345640884
+    second: MarioEnemySpriteSheet_269
+  - first:
+      213: 7846164711166966027
+    second: MarioEnemySpriteSheet_270
+  - first:
+      213: -419516744645993235
+    second: MarioEnemySpriteSheet_271
+  - first:
+      213: -6566659914716435187
+    second: MarioEnemySpriteSheet_272
+  - first:
+      213: 3251379978719801381
+    second: MarioEnemySpriteSheet_273
+  - first:
+      213: 4088957885544827136
+    second: MarioEnemySpriteSheet_274
+  - first:
+      213: 7635986262186257954
+    second: MarioEnemySpriteSheet_275
+  - first:
+      213: 2380052436167884498
+    second: MarioEnemySpriteSheet_276
+  - first:
+      213: 3972332917845196954
+    second: MarioEnemySpriteSheet_277
+  - first:
+      213: -1636904003125952411
+    second: MarioEnemySpriteSheet_278
+  - first:
+      213: -6373420385209688219
+    second: MarioEnemySpriteSheet_279
+  - first:
+      213: 1338954259654989862
+    second: MarioEnemySpriteSheet_280
+  - first:
+      213: -4107246023016020980
+    second: MarioEnemySpriteSheet_281
+  - first:
+      213: 4360833707792197909
+    second: MarioEnemySpriteSheet_282
+  - first:
+      213: 1577908510485333762
+    second: MarioEnemySpriteSheet_283
+  - first:
+      213: 834064650725138942
+    second: MarioEnemySpriteSheet_284
+  - first:
+      213: 4982995638427901600
+    second: MarioEnemySpriteSheet_285
+  - first:
+      213: -990536481313074138
+    second: MarioEnemySpriteSheet_286
+  - first:
+      213: -8214157404535468350
+    second: MarioEnemySpriteSheet_287
+  - first:
+      213: -3376661423332854375
+    second: MarioEnemySpriteSheet_288
+  - first:
+      213: -3598478206714772036
+    second: MarioEnemySpriteSheet_289
+  - first:
+      213: -4282958013526073888
+    second: MarioEnemySpriteSheet_290
+  - first:
+      213: 1192587284263813396
+    second: MarioEnemySpriteSheet_291
+  - first:
+      213: -2171040958905111122
+    second: MarioEnemySpriteSheet_292
+  - first:
+      213: 191539843200978906
+    second: MarioEnemySpriteSheet_293
+  - first:
+      213: 6182916205221918726
+    second: MarioEnemySpriteSheet_294
+  - first:
+      213: 6289761674704651110
+    second: MarioEnemySpriteSheet_295
+  - first:
+      213: -7403365442395059366
+    second: MarioEnemySpriteSheet_296
+  - first:
+      213: 4388192824668826670
+    second: MarioEnemySpriteSheet_297
+  - first:
+      213: -5098974583789663110
+    second: MarioEnemySpriteSheet_298
+  - first:
+      213: 3876974575194421149
+    second: MarioEnemySpriteSheet_299
+  - first:
+      213: 7210680993872531482
+    second: MarioEnemySpriteSheet_300
+  - first:
+      213: 1204279811083811831
+    second: MarioEnemySpriteSheet_301
+  - first:
+      213: -315532537544891659
+    second: MarioEnemySpriteSheet_302
+  - first:
+      213: 2304578691024924846
+    second: MarioEnemySpriteSheet_303
+  - first:
+      213: -5954225803520219144
+    second: MarioEnemySpriteSheet_304
+  - first:
+      213: -596577173682886469
+    second: MarioEnemySpriteSheet_305
+  - first:
+      213: -2807319126484462520
+    second: MarioEnemySpriteSheet_306
+  - first:
+      213: -8963010763952157986
+    second: MarioEnemySpriteSheet_307
+  - first:
+      213: 8038661007972962504
+    second: MarioEnemySpriteSheet_308
+  - first:
+      213: -3966907392131998754
+    second: MarioEnemySpriteSheet_309
+  - first:
+      213: -5681809698665954053
+    second: MarioEnemySpriteSheet_310
+  - first:
+      213: -1510884876295732253
+    second: MarioEnemySpriteSheet_311
+  - first:
+      213: 377928701387064242
+    second: MarioEnemySpriteSheet_312
+  - first:
+      213: 5958336701660204693
+    second: MarioEnemySpriteSheet_313
+  - first:
+      213: 8559386361069453756
+    second: MarioEnemySpriteSheet_314
+  - first:
+      213: -2709015790549694402
+    second: MarioEnemySpriteSheet_315
+  - first:
+      213: -7872763213523291700
+    second: MarioEnemySpriteSheet_316
+  - first:
+      213: 3832695447358560462
+    second: MarioEnemySpriteSheet_317
+  - first:
+      213: -2322591948030340551
+    second: MarioEnemySpriteSheet_318
+  - first:
+      213: 442420264137489715
+    second: MarioEnemySpriteSheet_319
+  - first:
+      213: 1739006210942186800
+    second: MarioEnemySpriteSheet_320
+  - first:
+      213: -1042965668274927754
+    second: MarioEnemySpriteSheet_321
+  - first:
+      213: -8814206015546844762
+    second: MarioEnemySpriteSheet_322
+  - first:
+      213: -3665145639043420886
+    second: MarioEnemySpriteSheet_323
+  - first:
+      213: -8242032022763501722
+    second: MarioEnemySpriteSheet_324
+  - first:
+      213: -7108376800482610198
+    second: MarioEnemySpriteSheet_325
+  - first:
+      213: -7736446130217786766
+    second: MarioEnemySpriteSheet_326
+  - first:
+      213: 8445707546234420877
+    second: MarioEnemySpriteSheet_327
+  - first:
+      213: -5653580314038970381
+    second: MarioEnemySpriteSheet_328
+  - first:
+      213: 5367412442266335761
+    second: MarioEnemySpriteSheet_329
+  - first:
+      213: 6529641607269855417
+    second: MarioEnemySpriteSheet_330
+  - first:
+      213: -435462923873698417
+    second: MarioEnemySpriteSheet_331
+  - first:
+      213: -5031463310574742621
+    second: MarioEnemySpriteSheet_332
+  - first:
+      213: 8541528287244464000
+    second: MarioEnemySpriteSheet_333
+  - first:
+      213: -6932067091655685588
+    second: MarioEnemySpriteSheet_334
+  - first:
+      213: 6075882249651392075
+    second: MarioEnemySpriteSheet_335
+  - first:
+      213: -5451211640081314031
+    second: MarioEnemySpriteSheet_336
+  - first:
+      213: -2289785798636380762
+    second: MarioEnemySpriteSheet_337
+  - first:
+      213: -2167253798308571229
+    second: MarioEnemySpriteSheet_338
+  - first:
+      213: -3777058081527848008
+    second: MarioEnemySpriteSheet_339
+  - first:
+      213: -1098729378308795369
+    second: MarioEnemySpriteSheet_340
+  - first:
+      213: -305637646799166871
+    second: MarioEnemySpriteSheet_341
+  - first:
+      213: -7680322452857264980
+    second: MarioEnemySpriteSheet_342
+  - first:
+      213: 5510231878797487461
+    second: MarioEnemySpriteSheet_343
+  - first:
+      213: 4920857430317904513
+    second: MarioEnemySpriteSheet_344
+  - first:
+      213: -6499536755944428125
+    second: MarioEnemySpriteSheet_345
+  - first:
+      213: -5920841738306565475
+    second: MarioEnemySpriteSheet_346
+  - first:
+      213: -6499516793667778833
+    second: MarioEnemySpriteSheet_347
+  - first:
+      213: -2861648533805786782
+    second: MarioEnemySpriteSheet_348
+  - first:
+      213: -7090067135426129524
+    second: MarioEnemySpriteSheet_349
+  - first:
+      213: 6978753726003078447
+    second: MarioEnemySpriteSheet_350
+  - first:
+      213: -6704182334580227579
+    second: MarioEnemySpriteSheet_351
+  - first:
+      213: -2936077984517348014
+    second: MarioEnemySpriteSheet_352
+  - first:
+      213: -8735053538995180717
+    second: MarioEnemySpriteSheet_353
+  - first:
+      213: 348849236080809040
+    second: MarioEnemySpriteSheet_354
+  - first:
+      213: 993150803322312441
+    second: MarioEnemySpriteSheet_355
+  - first:
+      213: -2545866875507083451
+    second: MarioEnemySpriteSheet_356
+  - first:
+      213: -9051265235237126920
+    second: MarioEnemySpriteSheet_357
+  - first:
+      213: 6634087802694836755
+    second: MarioEnemySpriteSheet_358
+  - first:
+      213: -2946461397759216521
+    second: MarioEnemySpriteSheet_359
+  - first:
+      213: 2888982172171664987
+    second: MarioEnemySpriteSheet_360
+  - first:
+      213: -7506258992656827670
+    second: MarioEnemySpriteSheet_361
+  - first:
+      213: -1140222440193614452
+    second: MarioEnemySpriteSheet_362
+  - first:
+      213: 4819515927387746144
+    second: MarioEnemySpriteSheet_363
+  - first:
+      213: 9206892301500146095
+    second: MarioEnemySpriteSheet_364
+  - first:
+      213: 3798523257833589772
+    second: MarioEnemySpriteSheet_365
+  - first:
+      213: -6172034348126391802
+    second: MarioEnemySpriteSheet_366
+  - first:
+      213: -3290158794208540535
+    second: MarioEnemySpriteSheet_367
+  - first:
+      213: 1737464987315908538
+    second: MarioEnemySpriteSheet_368
+  - first:
+      213: 8306489058851098300
+    second: MarioEnemySpriteSheet_369
+  - first:
+      213: 5211467543779121068
+    second: MarioEnemySpriteSheet_370
+  - first:
+      213: -4415246946004669258
+    second: MarioEnemySpriteSheet_371
+  - first:
+      213: -2235915795631493469
+    second: MarioEnemySpriteSheet_372
+  - first:
+      213: -3203122438056459873
+    second: MarioEnemySpriteSheet_373
+  - first:
+      213: -2719152381795415868
+    second: MarioEnemySpriteSheet_374
+  - first:
+      213: -876776397151358845
+    second: MarioEnemySpriteSheet_375
+  - first:
+      213: 6867662672451069420
+    second: MarioEnemySpriteSheet_376
+  - first:
+      213: 2428871976371550123
+    second: MarioEnemySpriteSheet_377
+  - first:
+      213: -4178858714792409230
+    second: MarioEnemySpriteSheet_378
+  - first:
+      213: -5967302765583245445
+    second: MarioEnemySpriteSheet_379
+  - first:
+      213: 7046043762902789965
+    second: MarioEnemySpriteSheet_380
+  - first:
+      213: -9062436891820118557
+    second: MarioEnemySpriteSheet_381
+  - first:
+      213: 246441760376711870
+    second: MarioEnemySpriteSheet_382
+  - first:
+      213: -584263667164792323
+    second: MarioEnemySpriteSheet_383
+  - first:
+      213: 8978076703747627566
+    second: MarioEnemySpriteSheet_384
+  - first:
+      213: -5306483238359528423
+    second: MarioEnemySpriteSheet_385
+  - first:
+      213: -8276856850356816183
+    second: MarioEnemySpriteSheet_386
+  - first:
+      213: -4194696998940337419
+    second: MarioEnemySpriteSheet_387
+  - first:
+      213: 8666270514146567855
+    second: MarioEnemySpriteSheet_388
+  - first:
+      213: -8185041354371448833
+    second: MarioEnemySpriteSheet_389
+  - first:
+      213: -3787384148264184199
+    second: MarioEnemySpriteSheet_390
+  - first:
+      213: 1167053351207025603
+    second: MarioEnemySpriteSheet_391
+  - first:
+      213: 2473733849874900230
+    second: MarioEnemySpriteSheet_392
+  - first:
+      213: 6560854706136921710
+    second: MarioEnemySpriteSheet_393
+  - first:
+      213: -2013520714874329417
+    second: MarioEnemySpriteSheet_394
+  - first:
+      213: -1771989483640965634
+    second: MarioEnemySpriteSheet_395
+  - first:
+      213: 5980179748448675579
+    second: MarioEnemySpriteSheet_396
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892bd012669187a80800000000000000
+      internalID: -8468991172838313320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e70a843e719b160800000000000000
+      internalID: 7041685757313973824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 245
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2594c163911515e0800000000000000
+      internalID: -1939624739814992595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c277dd4aa288e3e80800000000000000
+      internalID: -8196964555031742676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 238
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e548b81a3f95efd0800000000000000
+      internalID: -2313267761713232410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f0adac7c15a19b0800000000000000
+      internalID: -5108680908754776165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 238
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437ad388f1f889fd0800000000000000
+      internalID: -2334959041199102156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 238
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4612c715e8e04d20800000000000000
+      internalID: 3260862200859989580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52f5a9bcb57e6c0800000000000000
+      internalID: -4114218804553243205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 238
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c71554bd84460b0800000000000000
+      internalID: -5736379918765163494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993cdd9216439fb00800000000000000
+      internalID: 862778395537032089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 242
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837553e58cfb7e760800000000000000
+      internalID: 7487163772821657400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a734df594690a52b0800000000000000
+      internalID: -5595149259436637318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab30a5df4135b390800000000000000
+      internalID: -7803276560393290835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310ca9aca5974030800000000000000
+      internalID: 3478913805980533049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 207
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7b4d40e1681aa0800000000000000
+      internalID: -6190090071823384797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a91e8d26061c1e0800000000000000
+      internalID: -2179354767008884199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021842dd21af453d0800000000000000
+      internalID: -3218672874736549600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeea8eb25beddbb0800000000000000
+      internalID: -4909509278147350867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ea6f48d75814fb0800000000000000
+      internalID: -4665300964830958031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 207
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e941ec413368248a0800000000000000
+      internalID: -6322343372924250978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf5e4fdc4b8a330800000000000000
+      internalID: 3722423888691722937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f4902be754fa120800000000000000
+      internalID: 2427235134631137124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 212
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c6ca8bb7587c300800000000000000
+      internalID: 272333068904983663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 212
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d13b51e22f9d80800000000000000
+      internalID: -8241830441771739202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 207
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7519daddae3a9e0800000000000000
+      internalID: -1611186003847850080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 207
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e40f7a5fe23ec0800000000000000
+      internalID: -3588542781103742316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f873c744678d0ce00800000000000000
+      internalID: 1063087514526168975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71751f0256ccd4a40800000000000000
+      internalID: 5354160266729838359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f78526a406fbeb0800000000000000
+      internalID: -4701933613357695146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 147
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53981339e13dfe0f0800000000000000
+      internalID: -1085416856901023435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc1c9fdf06d6770800000000000000
+      internalID: 8605641106908105958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237973dc45f20dd0800000000000000
+      internalID: -2521183131059784922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c157e6d69158a0800000000000000
+      internalID: -6318102952476032342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0935738a1d8fa4470800000000000000
+      internalID: 8379783636030280592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 147
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f01aad42cc82f10800000000000000
+      internalID: 2245268872903069557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 166
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c545dd53fb955b0800000000000000
+      internalID: -5379058041849881589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 158
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2898bc056f1de8ed0800000000000000
+      internalID: -2409757894748960382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a04e94381d5520800000000000000
+      internalID: 2692334766509828197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 152
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4982739bb4bb20c60800000000000000
+      internalID: 7782989039953979540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af490c065ac675f40800000000000000
+      internalID: 5717157709518771450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 152
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc35fb9d551b650800000000000000
+      internalID: 6246868551845793748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14401a2281e865950800000000000000
+      internalID: 6437488951684039745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 145
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4dbb0064d00860800000000000000
+      internalID: 7494223288923410190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 145
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3206f294047d6dd0800000000000000
+      internalID: -2491207455871729093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 113
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbacce21a24ffc70800000000000000
+      internalID: 9006991039806614481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d20fda149c296e0800000000000000
+      internalID: -1832180814458114753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 122
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b0e4682d270c00800000000000000
+      internalID: 866711104806498813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9fd629d8f77f20800000000000000
+      internalID: 3420476053554961200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff29ff1e243ee4260800000000000000
+      internalID: 7083849140299338495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab08b2b800cd6eb0800000000000000
+      internalID: -4724909290451104851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6cc015181c5e2e0800000000000000
+      internalID: -2097057290316364063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff0f43a3f49d9e0800000000000000
+      internalID: -1596157481511223311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e64809ebd1bade20800000000000000
+      internalID: 3376206428733196007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83941433153df1fc0800000000000000
+      internalID: -3521864037874710216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac14a6b036b0ddd0800000000000000
+      internalID: -2463268675832767319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2225c11d014f30800000000000000
+      internalID: 4557938667848609495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e334cf5dd16490800000000000000
+      internalID: -7754673679971915713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d7257e18549cb10800000000000000
+      internalID: 2002207933576936862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e15cd62e64e830800000000000000
+      internalID: 4099522673998161458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011511bfb2a2f8620800000000000000
+      internalID: 2778485863495061776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad63c85cd1d014a0800000000000000
+      internalID: -6624564307549786718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c4634aff3e9670800000000000000
+      internalID: 8547339486900830931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c1d42f79f8c9ab0800000000000000
+      internalID: -4999963603520119806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed88eaadd96e7aa0800000000000000
+      internalID: -6161370839420203537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba12020bc46962b0800000000000000
+      internalID: -5590826639328929099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8761e061f16e2b1b0800000000000000
+      internalID: -5642194361953413512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 61
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a3d25626c760240800000000000000
+      internalID: 4757626818409609887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bf27b32e8307830800000000000000
+      internalID: 4066813007826713483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ac97db48608130800000000000000
+      internalID: 3566965579826636517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c445a43f5ffc7ec0800000000000000
+      internalID: -3567696020414053179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95da1ac9a30d1a40800000000000000
+      internalID: 5340428760906388894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfa422a758672090800000000000000
+      internalID: -8059358282564456498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588ed297bc75e0b0800000000000000
+      internalID: -5700012625482577836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4448d4a30ecdf60800000000000000
+      internalID: 8060563974099584167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1572db7b40a97d6b0800000000000000
+      internalID: -5271575493760702639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7bd908257551220800000000000000
+      internalID: 2455965183657228249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cd6ed321936a100800000000000000
+      internalID: 118845190682631254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a53a55bba9618300800000000000000
+      internalID: 252599240312370593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976075b787f387780800000000000000
+      internalID: -8685122094686075271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d87506c5f902a2b0800000000000000
+      internalID: -5574882437537367851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b7decfcf1b1560800000000000000
+      internalID: 7285451799590844755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioEnemySpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf7ac18b13b2900800000000000000
+      internalID: 660676437164424327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 35e0967599ddefd498da973649b5da85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
